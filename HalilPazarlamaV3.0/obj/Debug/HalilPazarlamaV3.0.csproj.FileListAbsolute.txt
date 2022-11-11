@@ -5,3 +5,11 @@ C:\Users\PC\source\repos\HalilPazarlamaV3.0\HalilPazarlamaV3.0\obj\Debug\HalilPa
 C:\Users\PC\source\repos\HalilPazarlamaV3.0\HalilPazarlamaV3.0\obj\Debug\HalilPazarlamaV3.0.csproj.CoreCompileInputs.cache
 C:\Users\PC\source\repos\HalilPazarlamaV3.0\HalilPazarlamaV3.0\obj\Debug\HalilPazarlamaV3.0.exe
 C:\Users\PC\source\repos\HalilPazarlamaV3.0\HalilPazarlamaV3.0\obj\Debug\HalilPazarlamaV3.0.pdb
+C:\Users\PC\OneDrive\Belgeler\GitHub\Halil-Pazarlama-V3\HalilPazarlamaV3.0\bin\Debug\HalilPazarlamaV3.0.exe.config
+C:\Users\PC\OneDrive\Belgeler\GitHub\Halil-Pazarlama-V3\HalilPazarlamaV3.0\bin\Debug\HalilPazarlamaV3.0.exe
+C:\Users\PC\OneDrive\Belgeler\GitHub\Halil-Pazarlama-V3\HalilPazarlamaV3.0\bin\Debug\HalilPazarlamaV3.0.pdb
+C:\Users\PC\OneDrive\Belgeler\GitHub\Halil-Pazarlama-V3\HalilPazarlamaV3.0\obj\Debug\HalilPazarlamaV3.0.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Belgeler\GitHub\Halil-Pazarlama-V3\HalilPazarlamaV3.0\obj\Debug\HalilPazarlamaV3.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\OneDrive\Belgeler\GitHub\Halil-Pazarlama-V3\HalilPazarlamaV3.0\obj\Debug\HalilPazarlamaV3.0.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Belgeler\GitHub\Halil-Pazarlama-V3\HalilPazarlamaV3.0\obj\Debug\HalilPazarlamaV3.0.exe
+C:\Users\PC\OneDrive\Belgeler\GitHub\Halil-Pazarlama-V3\HalilPazarlamaV3.0\obj\Debug\HalilPazarlamaV3.0.pdb
